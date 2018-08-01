@@ -19,6 +19,6 @@
   "devDependencies": {
     "faker": "^4.1.0",
     "jsonfile": "^4.0.0",
-    "nodemon": "1.11.0"
+    "nodemon": "^1.18.3"
   }
 }

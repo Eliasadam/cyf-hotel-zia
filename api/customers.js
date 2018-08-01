@@ -11,7 +11,9 @@ router.get("/:id?", (req, res) => {
     res.status(200).json({
       customers: filter
     });
-  } else {
+  } else { 
+    console.log('Ahmed ');
+    
     res.status(200).json({
       customers: customers
     });
